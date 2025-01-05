@@ -37,7 +37,7 @@ body{
 	
 }
 .header{
-	background: url(mons.jpg);
+	background-image: url(mons.jpg);
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
