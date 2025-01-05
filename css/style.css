@@ -244,7 +244,7 @@ ul.wmuSliderPagination {
 }
 .works-section{
 	padding:3em 0;
-	background:#2e3e4e;
+	background:black;
 	
 }
 .works-header{
@@ -695,7 +695,7 @@ h2.resp-accordion {
 }
 .footer-section {
 	padding: 40px 0px;
-	background: #2e3e4e;
+	background: black;
 }
 .contact-header {
 	text-align: center;
@@ -1121,7 +1121,7 @@ padding-bottom: 2em;
 		z-index: 999;
 		position: absolute;
 		width: 96%;
-		background:#2e3e4e;
+		background:black;
 		text-align: center;
 	}
 	.top-menu ul li a {
