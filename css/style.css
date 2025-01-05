@@ -37,7 +37,7 @@ body{
 	
 }
 .header{
-	background-color: black;
+	background: url(mons.jpg);
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -68,12 +68,12 @@ body{
 	
 }
 .top-menu ul li a:hover {
-	color: #ef664d;
+	color: #FF372D;
 	
 	
 }
 .top-menu ul li a.active {
-	color: #ef664d;
+	color: #FF372D;
 	font-weight: 600;
 }
 nav a {
@@ -161,7 +161,7 @@ nav a:focus {
 }
 .banner_center h2 span
 {
-	color: #ef664d;
+	color: #FF372D;
 	font-weight: 900;
 }
 .wmuSliderPagination {
@@ -189,8 +189,8 @@ ul.wmuSliderPagination {
 	-webkit-border-radius: 50%;
 }
 .wmuSliderPagination a.wmuActive {
-	background: #ef664d;
-	border-color: #ef664d;
+	background: #FF372D;
+	border-color: #FF372D;
 }
 
 .bannertop_box{
@@ -244,7 +244,7 @@ ul.wmuSliderPagination {
 }
 .works-section{
 	padding:3em 0;
-	background:black;
+	background: #1B1B1B;
 	
 }
 .works-header{
@@ -258,7 +258,7 @@ ul.wmuSliderPagination {
 	font-family: 'Arvo', serif;
 	text-transform: uppercase;
 	font-weight: 400;
-	color: #ef664d;
+	color: #FF372D;
 }
 .works-header h3 span {
 	color: #fefefe;
@@ -591,7 +591,7 @@ text-align:right;
 }
 .resp-tab-active,.resp-tab-item:hover{
   text-shadow: none;
-  color:#ef664d;
+  color:#FF372D;
 }
 .resp-tabs-container {
 	padding: 0px;
@@ -636,7 +636,7 @@ h2.resp-accordion {
 	color: #2a404e;
 }
 .about-header h3 span {
-	color: #ef664d;;
+	color: #FF372D;;
 
 }
 .about-imag {
@@ -645,7 +645,7 @@ h2.resp-accordion {
 	margin-right:5%
 }
 .about-imag img {
-	border: 2px solid #ef664d;
+	border: 2px solid #FF372D;
 	border-radius: 103px;
 }
 .about-text {
@@ -691,11 +691,11 @@ h2.resp-accordion {
 .skills > div {
 	height: 100%;
 	display: block;
-	background-color: #ef664d;
+	background-color: #FF372D;
 }
 .footer-section {
 	padding: 40px 0px;
-	background: black;
+	background: #1B1B1B;
 }
 .contact-header {
 	text-align: center;
@@ -707,7 +707,7 @@ h2.resp-accordion {
 	font-family: 'Arvo', serif;
 	text-transform: uppercase;
 	font-weight: 400;
-	color: #ef664d;
+	color: #FF372D;
 }
 .contact-header h3 span {
 color: #fefefe;
@@ -819,7 +819,7 @@ padding-bottom: 2em;
 	padding: 2em 0 0 17em;
 }
 .contactgrid2 input[type="submit"] {
-	color: #ef664d;
+	color: #FF372D;
 	background: none;
 	border: none;
 	font-size:15px;
@@ -841,7 +841,7 @@ padding-bottom: 2em;
 }
 .footer-bottom a {
 	font-size: 19px;
-	color: #ef664d;
+	color: #FF372D;
 	font-weight: 400;
 	text-transform: capitalize;
 }
