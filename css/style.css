@@ -37,7 +37,7 @@ body{
 	
 }
 .header{
-	background-image: url('https://raw.githubusercontent.com/rollymar/portfolio/main/css/mons.jpg');
+	background: url('mons.jpg') center/cover no-repeat fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
