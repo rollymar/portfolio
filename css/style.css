@@ -38,6 +38,7 @@ body{
 }
 .header{
 	background: url('../images/mons.jpg');
+	background: red;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
